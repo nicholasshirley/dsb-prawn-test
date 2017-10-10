@@ -1,0 +1,143 @@
+[
+    {
+        "id": 16,
+        "headline": "Amendment of inital filing and re-filing in new jurisdiction",
+        "summary_tasks": "Reviewed agreement documents and prepared exeuctive summary on major issues relating to re-filing and the impacts for the each party to consider.",
+        "deal_type": "Re-filing, Amendment",
+        "jurisdiction": "Netherlands",
+        "year": 2016,
+        "press_link": "www.example.com",
+        "clients": [
+            {
+                "client": "Deutsche Bank",
+                "role": "creditor"
+            },
+            {
+                "client": "United bank of the Netherlands",
+                "role": "creditor"
+            },
+            {
+                "client": "Banco Popular",
+                "role": "creditor"
+            },
+            {
+                "client": "The Commercial Bank",
+                "role": "creditor"
+            },
+            {
+                "client": "United Underseas Bank",
+                "role": "creditor"
+            },
+            {
+                "client": "Bank of Mongolia",
+                "role": "creditor"
+            }
+        ],
+        "public": false,
+        "user_id": 4,
+        "created_at": "2017-10-03T12:17:47.023Z",
+        "updated_at": "2017-10-03T12:17:47.023Z",
+        "deleted_at": null,
+        "position": 1
+    },
+    {
+        "id": 17,
+        "headline": "Dissolution and redeployment of employee benefit program with share distribution under rule 144.",
+        "summary_tasks": "Created research brief on specific requirements under rule 144 for the breakup and re-launch of employee share program; delivered brief in a big important meeting; generally being awesome.",
+        "deal_type": "Distribution of smiles",
+        "jurisdiction": "Italy",
+        "year": 2016,
+        "press_link": "http://example.com",
+        "clients": [
+            {
+                "client": "Bank Italiano",
+                "role": "Foreign private issuer"
+            }
+        ],
+        "public": true,
+        "user_id": 4,
+        "created_at": "2017-10-03T12:17:47.026Z",
+        "updated_at": "2017-10-03T12:17:47.026Z",
+        "deleted_at": null,
+        "position": 2
+    },
+    {
+        "id": 18,
+        "headline": "Dutch public offering for spinout real estate company.",
+        "summary_tasks": "Prepared prospectus and then delivered it by hand to everyone in the Netherlands; stood in the trading pit and took orders until I lost my voice, then took them by email.",
+        "deal_type": "IPO",
+        "jurisdiction": null,
+        "year": 2015,
+        "press_link": null,
+        "clients": [
+            {
+                "client": "Bankgroup",
+                "role": "Joint bookrunner"
+            },
+            {
+                "client": "Upper Crust Bank Group",
+                "role": "Joint bookrunner"
+            },
+            {
+                "client": "Dillon & Co",
+                "role": "Joint bookrunner"
+            },
+            {
+                "client": "Another bank",
+                "role": "Joint bookrunner"
+            },
+            {
+                "client": "Credit Group",
+                "role": "Joint bookrunner"
+            }
+        ],
+        "public": true,
+        "user_id": 4,
+        "created_at": "2017-10-03T12:17:47.030Z",
+        "updated_at": "2017-10-03T12:17:47.030Z",
+        "deleted_at": null,
+        "position": 3
+    },
+    {
+        "id": 19,
+        "headline": "Raise capital for Super Awesome Investment Haus Limited",
+        "summary_tasks": "Ran process from start to finish; gathered all documents and signings; pretended not to be upset when boss took over and didn't put my name on it.",
+        "deal_type": "144A/Reg S",
+        "jurisdiction": "Colombia",
+        "year": 2015,
+        "press_link": "http://example.com",
+        "clients": [
+            {
+                "client": "Just Another Bank",
+                "role": "Sole bookrunner"
+            }
+        ],
+        "public": true,
+        "user_id": 4,
+        "created_at": "2017-10-03T12:17:47.033Z",
+        "updated_at": "2017-10-03T12:17:47.033Z",
+        "deleted_at": null,
+        "position": 4
+    },
+    {
+        "id": 20,
+        "headline": "Bond offering for the Square Wheel Bicycle company",
+        "summary_tasks": "Performed due diligence (so much paper...); fancied up prospectus by chaning the font and complaining about footnote numbering; asked company if they would consider changing their name (they wouldn't).",
+        "deal_type": "Bond Issuance",
+        "jurisdiction": "USA",
+        "year": 2014,
+        "press_link": "http://example.com",
+        "clients": [
+            {
+                "client": "SWB Co",
+                "role": "Issuer"
+            }
+        ],
+        "public": true,
+        "user_id": 4,
+        "created_at": "2017-10-03T12:17:47.037Z",
+        "updated_at": "2017-10-03T12:17:47.037Z",
+        "deleted_at": null,
+        "position": 5
+    }
+]

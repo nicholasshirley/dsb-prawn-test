@@ -1,0 +1,15 @@
+{
+    "data": {
+        "id": 4,
+        "email": "fourthuser@example.com",
+        "provider": "email",
+        "uid": "fourthuser@example.com",
+        "first_name": "Sheldon",
+        "last_name": "Blanda",
+        "company": "Nader-Hilll",
+        "title": "Wookiee",
+        "linked_in": "http://legrosorn.com/briana.kuhlman",
+        "avatar": null,
+        "deleted_at": null
+    }
+}
